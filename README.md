@@ -23,14 +23,14 @@ I enjoy building web interfaces and gradually adding real functionality using Ja
 #### 💼 Gig Flow Platform
 A basic web project representing a gig-based platform concept, focusing on page structure and frontend layout.
 
-🔗 GitHub: https://github.com/Deepikav123/Gig-flow-platform
+🔗 GitHub: https://github.com/Deepikav123/Gig-flow-platform                                                  
 🌐 Live Demo: https://gigflowplatform.netlify.app/
 
 ---
 #### 📊 Finance Dashboard
 Track income, expenses, and spending patterns with interactive charts and a clean UI.
 
-🔗 GitHub: https://github.com/Deepikav123/Finance-Dashboard
+🔗 GitHub: https://github.com/Deepikav123/Finance-Dashboard                                                  
 🌐 Live Demo: https://personalfinancial-dashboard.netlify.app/
 
 ---
