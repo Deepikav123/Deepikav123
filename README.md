@@ -37,8 +37,9 @@ Track income, expenses, and spending patterns with interactive charts and a clea
 #### 🛒 Amazon Clone
 A frontend UI clone inspired by Amazon, focusing on layout, styling, and responsiveness using HTML and CSS.
 
-🔗 GitHub: https://github.com/Deepikav123/Amazon
-🌐 Live Demo :https://deepika-amazon-clone.netlify.app
+🔗 GitHub: https://github.com/Deepikav123/Amazon                                                             
+🌐 Live Demo: https://deepika-amazon-clone.netlify.app
+
 ---
 
 ### 🌱 Currently Working On
