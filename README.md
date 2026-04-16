@@ -24,20 +24,28 @@ I enjoy building web interfaces and gradually adding real functionality using Ja
 A basic web project representing a gig-based platform concept, focusing on page structure and frontend layout.
 
 🔗 GitHub: https://github.com/Deepikav123/Gig-flow-platform
+🌐 Live Demo: https://gigflowplatform.netlify.app/
+
+---
+#### 📊 Finance Dashboard
+Track income, expenses, and spending patterns with interactive charts and a clean UI.
+
+🔗 GitHub: https://github.com/Deepikav123/Finance-Dashboard
+🌐 Live Demo: https://personalfinancial-dashboard.netlify.app/
 
 ---
 #### 🛒 Amazon Clone
 A frontend UI clone inspired by Amazon, focusing on layout, styling, and responsiveness using HTML and CSS.
 
 🔗 GitHub: https://github.com/Deepikav123/Amazon
-
-
+🌐 Live Demo :https://deepika-amazon-clone.netlify.app
 ---
 
 ### 🌱 Currently Working On
 - Strengthening JavaScript fundamentals  
 - Building more logic-based frontend projects  
-- Improving code structure and project documentation  
+- Improving code structure and project documentation
+- Learning backend development (Node.js, Express)
 
 ---
 
