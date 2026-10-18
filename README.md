@@ -8,12 +8,12 @@ Currently, I'm focusing on **full-stack web development, Data Structures and Alg
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express.js, REST APIs
-Database: MongoDB, Mongoose
-Programming: JavaScript, C++
-Tools: Git, GitHub
-
+Frontend: HTML, CSS, JavaScript, React                                                                       
+Backend: Node.js, Express.js, REST APIs                                                                      
+Database: MongoDB, Mongoose                                                                                  
+Programming: JavaScript, C++                                                                                 
+Tools: Git, GitHub                                                                                           
+                                                                                                            
 ## 🚀 Projects
 
 ### 📌 [TrackHire — Intelligent Job Application Tracker](https://github.com/Deepikav123/TrackHire)
